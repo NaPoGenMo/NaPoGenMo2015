@@ -1,5 +1,5 @@
 # NaPoGenMo2015
-National Poetry Generation Month 2015 - based on an idea @hugovk [tweeted](https://twitter.com/hugovk/status/582991364889059330) on a whim. This is the 2014 edition
+National Poetry Generation Month 2015 - based on an idea @hugovk [tweeted](https://twitter.com/hugovk/status/582991364889059330) on a whim. This is the 2015 edition
 
 #The Goal
 
